@@ -1,0 +1,13 @@
+a{
+    padding: 20px;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
